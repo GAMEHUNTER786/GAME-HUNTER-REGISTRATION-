@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Registration - Game Hunter</title>
+<style>
+ body{background:#0f1923;display:flex;justify-content:center;align-items:center;height:100vh;font-family:Arial}
+ .box{background:#111;padding:30px;border-radius:10px;border:1px solid #00e6b4;width:320px;text-align:center}
+ h2{color:#00e6b4;letter-spacing:2px}
+ input{width:90%;padding:12px;margin:8px 0;border-radius:5px;border:none;background:#222;color:white}
+ .btn{background:#ff4655;color:white;border:none;padding:12px;width:95%;border-radius:5px;font-weight:bold;cursor:pointer;margin-top:10px}
+ .btn:hover{background:#ff2a3a}
+</style>
+</head>
+<body>
+<div class="box">
+  <h2>GAME HUNTER</h2>
+  <p style="color:#888;font-size:12px">Create Account</p>
+  <input type="text" placeholder="Username">
+  <input type="email" placeholder="Email">
+  <input type="password" placeholder="Password">
+  <button class="btn">REGISTER</button>
+</div>
+</body>
+</html>
