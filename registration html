@@ -1,1 +1,6 @@
-html
+<h2 style="text-align: center;">
+    Welcome
+  </h2>
+  This is an example web page.<br>
+  The page is written in html, to see its markup and edit it click the edit button at the top of the s files using the file manager.<br>
+  To create new files use the menu at the top left o
